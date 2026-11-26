@@ -63,13 +63,6 @@ CREATE TABLE produk (
 
 ---
 
-## Cara Menjalankan di VS Code
-1. Pastikan file `mysql-connector-j-26.10.0.jar` berada di dalam folder `lib/` dan sudah ditambahkan pada bagian **JAVA PROJECTS -> Referenced Libraries**.
-2. Buka file `src/MainApp.java`.
-3. Klik tombol **Run** di atas method `main` untuk memunculkan jendela aplikasi.
-
----
-
 ## Dokumentasi & Uji Coba Fitur (Screenshots)
 
 ### 1. Tampilan Awal & Input Data Baru
