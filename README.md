@@ -3,7 +3,7 @@
 **Identitas Mahasiswa:**
 * **Nama:** Fido Priasa Setyono Putra
 * **NIM:** F1D02410048
-* **Kelas:** 5A — Teknik Informatika, Universitas Mataram
+* **Kelas:** A
 
 ---
 
